@@ -1,0 +1,8 @@
+Obsługa socketa: wysyłanie wiadomości i otrzymywanie powiadomień przy SSE
+REST API: dane logowania, historia wiadomości
+
+OPIS EVENTÓW:
+
+wiadomosc:
+    server - wiadomosc(id sesji, treść, do kogo)
+    klient - (nadwca, treść)
